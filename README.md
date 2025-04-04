@@ -1,5 +1,6 @@
 # Crafting-Seamless-Digital-Experiences-From-QA-to-Front-End-Development 
-Professional Summary
+# Professional Summary
+
 A dynamic and results-driven Front-End Developer transitioning from over five years of expertise in Quality Assurance (QA). With a deep understanding of software testing, debugging, and optimization, I bring a unique blend of analytical precision and creative problem-solving to front-end development. My background in QA testing for SFA (Sales Force Automation), ERP (Enterprise Resource Planning), and Fintech products has honed my ability to build seamless, high-performing, and user-friendly applications.
 Passionate about responsive web design, performance optimization, and accessibility, I specialize in HTML, CSS, JavaScript, and React, ensuring that web applications are intuitive, engaging, and robust. My commitment to quality, usability, and efficiency drives me to craft digital experiences that align with business goals and user needs.
 
